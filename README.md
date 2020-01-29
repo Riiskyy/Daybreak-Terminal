@@ -12,25 +12,25 @@ A Windows Terminal theme based on the vscode theme [Daybreak](https://github.com
 
     ```json
     {
-        "background" : "#1C1E26",
-        "black" : "#434758",
-        "blue" : "#26BBD9",
-        "brightBlack" : "#6C6F93",
-        "brightBlue" : "#3FC4DE",
-        "brightCyan" : "#6BE4E6",
-        "brightGreen" : "#3FDAA4",
-        "brightPurple" : "#F075B5",
-        "brightRed" : "#EC6A88",
-        "brightWhite" : "#ffffff",
-        "brightYellow" : "#FBC3A7",
-        "cyan" : "#59E1E3",
-        "foreground" : "#D5D8DA",
-        "green" : "#29D398",
         "name" : "daybreak",
+        "background" : "#1C1E26",
+        "foreground" : "#D5D8DA",
+        "black" : "#434758",
+        "brightBlack" : "#6C6F93",
+        "blue" : "#26BBD9",
+        "brightBlue" : "#3FC4DE",
+        "cyan" : "#59E1E3",
+        "brightCyan" : "#6BE4E6",
+        "green" : "#29D398",
+        "brightGreen" : "#3FDAA4",
         "purple" : "#EE64AC",
+        "brightPurple" : "#F075B5",
         "red" : "#E95678",
+        "brightRed" : "#EC6A88",
         "white" : "#d0d0d0",
-        "yellow" : "#FAB795"
+        "brightWhite" : "#ffffff",
+        "yellow" : "#FAB795",
+        "brightYellow" : "#FBC3A7"
     }
     ```
 
